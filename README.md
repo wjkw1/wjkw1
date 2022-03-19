@@ -1,8 +1,8 @@
-Kia ora koutou,
+# Kia ora koutou,
 
 I am a Māori software developer based in Wellington NZ. I aim to be kind, an enabling leader, and a lifelong-learner.
 
-Skillset
+**Skillset**
 
 - Python, Java, C#
 - React, JavaScriot, HTML, CSS
@@ -11,7 +11,7 @@ Skillset
 - Docker
 - Agile tools
 
-Learning:
+**Learning**
 
 - React Gatsby w/ Bulma CSS
 - Python Machine Learning
