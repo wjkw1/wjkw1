@@ -1,6 +1,6 @@
 Kia ora koutou,
 
-I am a Māori software developer based in Wellington NZ.
+I am a Māori software developer based in Wellington NZ. I aim to be kind, an enabling leader, and a lifelong-learner.
 
 Skillset
 
