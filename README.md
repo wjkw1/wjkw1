@@ -39,4 +39,4 @@ Ko Mansell te whānau
 *Mansell is my family*
 
 Ko Western tōku ingoa    
-*I am Western*
+*My name is Western*
