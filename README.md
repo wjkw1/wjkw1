@@ -5,11 +5,16 @@ I am a Māori software developer based in Wellington NZ. I aim to be kind, an en
 **Skillset**
 
 - Python, Java, C#
-- React, JavaScriot, HTML, CSS
+- React, JavaScript, HTML, CSS
 - SQL
 - Unix
 - Docker
 - Agile tools
+
+**Exposure to**
+
+- K8s
+- Cisco IOS
 
 **Learning**
 
@@ -18,7 +23,7 @@ I am a Māori software developer based in Wellington NZ. I aim to be kind, an en
 
 # Pepeha
 
-This is a traditional Māori way of introducing the people and land I am connected to.
+This is a traditional Māori way of introducing the people and land that I am connected to.
 
 Ko Pūtauaki te maunga    
 *Pūtauki is my mountain*
