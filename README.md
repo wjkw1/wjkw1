@@ -6,7 +6,7 @@ I am a Māori software developer based in Wellington NZ. I aim to be kind, an en
 
 - Python, Java, C#
 - React, JavaScript, HTML, CSS
-- SQL
+- SQL, NoSQL
 - Unix
 - Docker
 - Agile tools
@@ -18,8 +18,9 @@ I am a Māori software developer based in Wellington NZ. I aim to be kind, an en
 
 **Learning**
 
-- React Gatsby w/ Bulma CSS
-- Python Machine Learning
+- Bulma CSS
+- Terraform
+- AWS
 
 # Pepeha
 
