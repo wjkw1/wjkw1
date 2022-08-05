@@ -5,22 +5,21 @@ I am a Māori software developer based in Wellington NZ. I aim to be kind, an en
 **Skillset**
 
 - Python, Java, C#
+- Docker, Kubernetes, Terraform
+- GitHub Actions
+- AWS
+- Unix
 - React, JavaScript, HTML, CSS
 - SQL, NoSQL
-- Unix
-- Docker
 - Agile tools
 
 **Exposure to**
 
-- K8s
 - Cisco IOS
 
 **Learning**
 
 - Bulma CSS
-- Terraform
-- AWS
 
 # Pepeha
 
