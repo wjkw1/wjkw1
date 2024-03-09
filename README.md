@@ -1,14 +1,14 @@
 **Kia ora koutou,**
 
-Ko Ngāti Awa te iwi, ko Western taku ingoa. I am a Māori DevOps Engineer based in Wellington NZ. I aim to be kind, an enabling leader, and a lifelong-learner.
+Ko Ngāti Awa te iwi, ko Western taku ingoa. I am a Māori Infrastructure Engineer based in NZ. I aim to be kind, an enabling leader, and a lifelong-learner.
 
 **Skillset**
 
-- Python, Java, C#
+- Python, Java, C#, Kotlin
 - Docker, Kubernetes, Terraform
-- GitHub Actions
+- GitHub Actions, TeamCity, Octopus-Deploy
 - AWS, OpenStack, Catalyst Cloud
-- Unix
+- Unix, Bash, Powershell
 - JavaScript, HTML, CSS
 - SQL, NoSQL
 - Agile tools
