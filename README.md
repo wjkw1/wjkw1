@@ -1,8 +1,8 @@
 **Kia ora koutou,**
 
-Ko Ngāti Awa te iwi, ko Western taku ingoa. I am a Māori Infrastructure Engineer based in NZ. I aim to be kind, an enabling leader, and a lifelong-learner.
+Ko Ngāti Awa te iwi, ko Western taku ingoa. I'm an Infrastructure Engineer based in NZ. I aim to be kind, an enabling leader, and a lifelong-learner.
 
-**Skillset**
+**Skills**
 
 - Python, Java, C#, Kotlin
 - Docker, Kubernetes, Terraform
