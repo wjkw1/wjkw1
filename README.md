@@ -2,7 +2,7 @@
 
 Kia ora 👋
 
-I’m Western, a software engineer moving from infrastructure/devops into **machine learning**.
+I’m [Western](https://westernwilson.com), a software engineer moving from infrastructure/devops into **machine learning**.
 
 Right now I’m completing Google’s [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course), focusing on:
 
@@ -12,6 +12,11 @@ Right now I’m completing Google’s [**Machine Learning Crash Course**](https:
 - Introductory neural networks and how ML systems run in production
 
 The goal here is for me to blend my DevOps experience with Machine Learning to become an effective ML Ops Engineer of some description.  
+
+## Connect with me
+
+If you want to connect, I'm keen to yarn. You can find my contact details on my website: 
+https://westernwilson.com
 
 ## Practice Projects
 
