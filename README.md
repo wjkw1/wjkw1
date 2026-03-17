@@ -10,13 +10,16 @@ I'm Māori and my ancestors are from Ngāti Awa iwi in NZ. I also have roots in 
 
 ## Tech
 
-- **Cloud & Infrastructure:** AWS (EKS, RDS, SSO) • Terraform • Docker • Kubernetes • Helm • PostgreSQL • NewRelic • Grafana • GCP (wanting to learn)
+Main tech stack:
+
+- **Cloud & Infrastructure:** AWS (EKS, RDS, SSO) • Terraform • Docker • Kubernetes • Helm • PostgreSQL • NewRelic/Prometheus/Grafana • OpenStack • GCP (wanting to learn)
 - **CI/CD:** GitHub Actions • TeamCity • Octopus Deploy
 - **Languages:** Python (FastAPI, Flask) • Bash • Go (learning) • some C# & Java
 - **Practices:** REST API Design • Infrastructure as Code • Observability • Security Controls • Agile/Scrum
 
 Also worked with: 
 - **Frontend:** Vue.js (Nuxt), React (Next.js), Tailwind CSS
+- **Exploring:** MLOps as a future direction — completed Google's MLCC
 - **ML:** Pandas • NumPy • TensorFlow (from MLCC exercises)
 
 ## What I'm doing now?
