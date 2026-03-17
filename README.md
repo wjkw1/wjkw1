@@ -6,14 +6,17 @@ Kia ora 👋
 
 I’m [Western](https://westernwilson.com), a curious values-driven problem solver with full stack experience and a deeper experience with infrastructure/devops.
 
-I'm Māori and my ancestors are from Ngāti Awa iwi in NZ. I also have roots in the England and the Nordic countries somewhere.
+I'm Māori and my ancestors are from Ngāti Awa iwi in NZ. I also have roots in England and Nordic countries somewhere.
 
 ## Tech
 
 - **Cloud & Infrastructure:** AWS (EKS, RDS, SSO) • Terraform • Docker • Kubernetes • Helm • PostgreSQL • NewRelic • Grafana • GCP (wanting to learn)
 - **CI/CD:** GitHub Actions • TeamCity • Octopus Deploy
-- **Languages:** Python (FastAPI, Flask) • Bash • Go (learning) • some C# & Java • HTML • CSS • Vue.js • Tailwind CSS • React
+- **Languages:** Python (FastAPI, Flask) • Bash • Go (learning) • some C# & Java
 - **Practices:** REST API Design • Infrastructure as Code • Observability • Security Controls • Agile/Scrum
+
+Also worked with: 
+- **Frontend:** Vue.js (Nuxt), React (Next.js), Tailwind CSS
 - **ML:** Pandas • NumPy • TensorFlow (from MLCC exercises)
 
 ## What I'm doing now?
