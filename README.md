@@ -8,12 +8,11 @@ I'm Māori and my ancestors are from Ngāti Awa iwi in NZ. I also have roots in 
 
 ## Tech
 
-- **Languages:** Python (FastAPI, Flask) • Bash • Go (learing) • some C# & Java • HTML • CSS • Vue.js • Tailwind CSS • React
-- **Cloud & Infrastructure:** AWS (EKS, RDS, SSO) • Terraform • Docker • Kubernetes • Helm • PostgreSQL • NewRelic • Grafana
+- **Cloud & Infrastructure:** AWS (EKS, RDS, SSO) • Terraform • Docker • Kubernetes • Helm • PostgreSQL • NewRelic • Grafana • GCP (wanting to learn)
 - **CI/CD:** GitHub Actions • TeamCity • Octopus Deploy
-- **Front-end** Html • Javascript • CSS (TailwindCSS) • Vue.js (Nuxt) • Hugo • React (Gatsby)
+- **Languages:** Python (FastAPI, Flask) • Bash • Go (learning) • some C# & Java • HTML • CSS • Vue.js • Tailwind CSS • React
 - **Practices:** REST API Design • Infrastructure as Code • Observability • Security Controls • Agile/Scrum
-- **ML:** Pandas • NumPy • scikit-learn • TensorFlow (from MLCC exercises)
+- **ML:** Pandas • NumPy • TensorFlow (from MLCC exercises)
 
 ## What I'm doing now?
 
