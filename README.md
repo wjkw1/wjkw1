@@ -8,7 +8,16 @@ I’m [Western](https://westernwilson.com), a curious values-driven problem solv
 
 I'm Māori and my ancestors are from Ngāti Awa iwi in NZ. I also have roots in England and Nordic countries somewhere.
 
-## Technology stack
+## What I'm doing now?
+
+I'm travelling Europe and actively looking for my next role. In the meantime, I'm building an end-to-end demo project to showcase my DevOps skills. It's a simple coffee concession card app (inspired by [Raglan Roast's](https://raglanroast.co.nz/) loyalty book!) pushed through a full pipeline from code to production.
+
+The app is deliberately simple. The real work is everything around it: CI/CD, infrastructure as code, container orchestration, GitOps, environment promotion. I'll split across three repos to mirror how teams actually structure things. The goal: local dev to production on AWS, using modern practices, with every decision documented.
+
+1. Apps repo here: https://github.com/wjkw1/devops-profile-coffee-card-app-demo
+2. Infra repo here: TBD
+
+## Tech stack
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
@@ -53,12 +62,6 @@ I'm Māori and my ancestors are from Ngāti Awa iwi in NZ. I also have roots in 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Google MLCC](https://img.shields.io/badge/Google_MLCC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-## What I'm doing now?
-
-I'm travelling Europe and actively looking for my next role. In the meantime, I'm building an end-to-end demo project to showcase my DevOps skills. It's a simple coffee concession card app (inspired by [Raglan Roast's](https://raglanroast.co.nz/) loyalty book!) pushed through a full pipeline from code to production.
-
-The app is deliberately simple. The real work is everything around it: CI/CD, infrastructure as code, container orchestration, GitOps, environment promotion. I'll split across three repos to mirror how teams actually structure things. The goal: local dev to production on AWS, using modern practices, with every decision documented.
 
 ## Connect with me
 
