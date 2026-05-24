@@ -2,9 +2,7 @@
 
 ## Kia ora, I'm [Western](https://westernwilson.com) 👋
 
-Platform and DevOps engineer, seven years in. Currently building in public while I look for my next role.
-
-Most of my work sits between business, engineering, and infrastructure. I care about systems that are sustainable and not just systems that ship.
+DevOps & Infrastructure engineer with 5 years experience. Currently building in public while I look for my next role.
 
 ## What I'm working on
 
