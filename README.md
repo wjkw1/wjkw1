@@ -9,10 +9,10 @@ Most of my work sits between business, engineering, and infrastructure. I care a
 ## What I'm working on
 
 - End-to-end DevOps demo project using AWS, Terraform, Kubernetes, GitHub Actions, GitOps.
-    - App repo here: <https://github.com/wjkw1/devops-profile-coffee-card-app-demo>
-    - Infra repo here: <https://github.com/wjkw1/devops-profile-coffee-card-infra-demo>
+    - AWS Foundations repo here: <https://github.com/wjkw1/aws-foundations> 
+    - App & Infra repo here: <https://github.com/wjkw1/devops-profile-coffee-card-app-demo>
 - Working towards CKA accreditation
-- Learning Go
+- Wanting to learn Go professionally
 
 ## Tech stack
 
