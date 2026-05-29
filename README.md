@@ -6,7 +6,7 @@ DevOps & Infrastructure engineer with 5 years experience. Currently building in 
 
 ## What I'm working on
 
-- End-to-end DevOps demo project using AWS, Terraform, Kubernetes, GitHub Actions, GitOps.
+- End-to-end DevOps Serverless demo project using AWS (Lambda, Dynamo), Terraform, GitHub Actions
     - AWS Foundations repo here: <https://github.com/wjkw1/aws-foundations> 
     - App & Infra repo here: <https://github.com/wjkw1/devops-profile-coffee-card-app-demo>
 - Working towards CKA accreditation
