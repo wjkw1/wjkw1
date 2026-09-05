@@ -1,16 +1,18 @@
-**Currently seeking mid-to-senior IC role in the Netherlands**. Let's chat, [email me!](mailto:kiaora@westernwilson.com) ✉️
-
 ## Kia ora, I'm [Western](https://westernwilson.com) 👋
 
-DevOps & Infrastructure engineer with 5 years experience. Currently building in public while I look for my next role.
+🇳🇿 An NZ-born, DevOps, Cloud & Infrastructure engineer continuing a career in the Netherlands! 🇳🇱
 
-## What I'm working on
+## Intention
+
+- Working towards CKA accreditation
+- Building a deeper knowledge of cloud technologies in GCP
+- Utilising various tools like ArgoCD, Istio, Observability tooling, and much more
+
+## Interesting projects
 
 - End-to-end DevOps Serverless demo project using AWS (Lambda, Dynamo), Terraform, GitHub Actions
     - AWS Foundations repo here: <https://github.com/wjkw1/aws-foundations> 
     - App & Infra repo here: <https://github.com/wjkw1/devops-profile-coffee-card-app-demo>
-- Working towards CKA accreditation
-- Wanting to learn Go professionally
 
 ## Tech stack
 
